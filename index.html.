@@ -1,0 +1,14 @@
+Snyman-Says/
+│
+├── index.html
+├── about.html
+├── booking.html
+├── dashboard.html
+├── login.html
+├── signup.html
+├── contact.html
+├── css/
+├── js/
+├── images/
+├── translations/
+└── ...
